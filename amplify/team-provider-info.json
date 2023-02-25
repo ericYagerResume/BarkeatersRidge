@@ -10,6 +10,18 @@
       "StackName": "amplify-barkeatersridgewebap-dev-140549",
       "StackId": "arn:aws:cloudformation:us-east-1:179682925980:stack/amplify-barkeatersridgewebap-dev-140549/6bbb7d90-b53f-11ed-95b8-0edf500ade47",
       "AmplifyAppId": "d3dlnvp1685l9z"
+    },
+    "categories": {
+      "auth": {
+        "barkeatersridgewebap48b9ee34": {},
+        "userPoolGroups": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3dlnvp1685l9z",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
